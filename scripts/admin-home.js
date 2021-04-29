@@ -82,3 +82,4 @@ function populateUnreadQueries(){
     html += '<h2> Unread Customer <br> Inquiries </h2></a>';
     document.querySelector('.Inquries').innerHTML = html; 
 }
+
